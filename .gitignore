@@ -1,6 +1,7 @@
 #adding our api key and random numbers to ignore
 config.py
 random_numbers.ipynb 
+configcopy.py
 
 
 # Byte-compiled / optimized / DLL files
