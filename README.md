@@ -8,3 +8,6 @@ The Google API let us locate hotels near these cities.
 The Google API additionally allowed us to create driving routes to connect nearby cities for vacation planning.
 The Google API can be used to also find walking and biking routes.
 Lastly, the google API allowed us to create maps with markers that displayed the key information relative to each location in the planned vacation (i.e. hotel name, city).
+Below is a picture showing an example vacation to four cities in Brazil, with markers providing information and driving routes connecting the cities.
+
+![weatherpy_travel_map_markers](https://user-images.githubusercontent.com/96553988/153734208-447910df-7d83-4938-b641-f7968fe439a7.png)
